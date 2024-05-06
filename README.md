@@ -2,8 +2,6 @@
 
 ## Description
 
-A program designed to solve the Breach Protocol minigame in Cyberpunk 2077 with a brute-force algorithm. This proram allows user to enter a Breach Protocol matrix and target solution through a txt file or by the CLI, and returns the best possible sequence with maximum value possible. This program is entirely written in C++.
-
 A program designed to solve Word Ladder game with pathfinding algorithms. This program allows user to enter a Word Ladder problem by the CLI and returns the result with prefered algorithms available. The user may choose three Uniform Cost Search, Greedy Best First Search, or A\*. This program is entirely written in Java.
 
 ## Requirements
